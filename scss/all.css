@@ -133,6 +133,12 @@ body {
   flex-shrink: 0;
 }
 
+.footer {
+  text-align: center;
+  background: #000;
+  padding: 40px 0;
+}
+
 .banner {
   background-color: #000;
   padding: 72px 0;
@@ -217,7 +223,6 @@ body {
   display: flex;
   gap: 0 20px;
 }
-
 .myProject {
   padding: 160px 0;
   display: flex;
@@ -262,10 +267,4 @@ body {
 .myProject .projects .sec2 .sec4 {
   display: flex;
   gap: 24px;
-}
-
-.footer {
-  text-align: center;
-  background: #000;
-  padding: 40px 0;
 }/*# sourceMappingURL=all.css.map */
